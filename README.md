@@ -1,1 +1,2 @@
 # Guister_takeuti
+2026年GATガイスター竹内研チームのGitHub
